@@ -1,0 +1,1 @@
+Canonical supports Kubeadm, MicroK8s and Charmed Kubernetes on VMware, OpenStack, bare metal, AWS, Azure, Google, Oracle Cloud, IBM Cloud and Rackspace.
