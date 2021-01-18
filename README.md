@@ -9,3 +9,6 @@ A lots of lecture are already sumitted.
 
 ## Git And Github Training
 This is a Training Course and one of the best Devops Training
+
+## Git Comparison
+This is comparison lecture on Git
