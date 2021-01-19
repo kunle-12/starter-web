@@ -13,9 +13,8 @@ This is a Training Course and one of the best Devops Training
 
 ## Git Comparison
 This is comparison lecture on Git
-=======
-Sample website with plenty of files for demos
-
+Sample website with plenty of files for demos.
+Rebase lecture is on progress
 
 ## Git and Github Training
 >>>>>>> devops
