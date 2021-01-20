@@ -8,6 +8,7 @@ A lots of lecture are already sumitted.
 <<<<<<< HEAD
 
 
+<<<<<<< Updated upstream
 ## Git And Github Training
 This is a Training Course and one of the best Devops Training
 
@@ -18,3 +19,7 @@ Rebase lecture is on progress
 
 ## Git and Github Training
 >>>>>>> devops
+=======
+## Git and Github Training
+Stash is been apply
+>>>>>>> Stashed changes
