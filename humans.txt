@@ -3,14 +3,19 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <role of the developers> -- <Hammed Nureni>
 
 # THANKS
 
+<<<<<<< HEAD
     <name>
 # See the file from there
+=======
+
+    <name> Hammed Nureni
+>>>>>>> 39b6f14223b4ff960d5a198c0774299503acab9d
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, Angular
+    jQuery, Modernizr, Ajax

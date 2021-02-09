@@ -1,7 +1,25 @@
-# Starter Web Repo
+# starter Web-Project
+This is Git Project, which we are using as a sample Project
 
-This repository is for showing how Git and GitHub work
 
-## Purpose
+## Introduction
+A lots of lecture are already sumitted.
 
-Sample website with plenty of files for demos
+<<<<<<< HEAD
+
+
+<<<<<<< Updated upstream
+## Git And Github Training
+This is a Training Course and one of the best Devops Training
+
+## Git Comparison
+This is comparison lecture on Git
+Sample website with plenty of files for demos.
+Rebase lecture is on progress
+
+## Git and Github Training
+>>>>>>> devops
+=======
+## Git and Github Training
+Stash is been apply
+>>>>>>> Stashed changes

@@ -1,0 +1,18 @@
+Provide advanced system administration, operational support and problem resolution for a large complex Linux computing environment, including both virtualized and physical servers
+Create and Patch AMIs, perform pull requests, write Automation code
+Perform Linux administration including changes, deletes, disk space management, application installation, and backup
+Use your infrastructure and networking knowledge to maintain cloud based infrastructure predominantly on AWS involving EC2, S3, RDS & VPC
+Use configuration management tools (primarily Ansible and Terraform) to build and maintain a hybrid infrastructure hosted both at colocation facilities and in the public cloud.
+Work directly with the development team to build supporting infrastructure for specific new application functionality.
+Run proof of concept projects on early stage infrastructure improvements to validate the feasibility of an approach, evaluate performance, and spike an implementation.
+Review and evaluate virtual and physical server performance and capacity
+Forecast system demands and recommends upgrades, expansions and reconfigurations
+Perform automated computing environment builds, site setup, user training, hardware/software installation, maintenance and support and documentation of operating procedures and processes
+Support VMware environment including changes, adding/removing systems, and disk space management.
+Troubleshoot hardware and software problems, takes appropriate corrective action and/or interact with IT staff or vendors in performing complex testing, support, server recovery, and troubleshooting functions.
+Assist with development and testing of changes needed to maintain DR environment
+Use change management process
+Comply with all audit, compliance, and regulatory requirements
+Attend meetings as a team representative
+Support on call, weekend and off hours work as needed
+Perform other duties as assigned
